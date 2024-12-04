@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -pedantic  CMakeFiles/tp4_vecteur.dir/test/test_vecteur.cpp.o CMakeFiles/common.dir/src/carte.cpp.o CMakeFiles/common.dir/src/paquet.cpp.o CMakeFiles/common.dir/src/ressource.cpp.o CMakeFiles/common.dir/src/usine.cpp.o -o tp4_vecteur 

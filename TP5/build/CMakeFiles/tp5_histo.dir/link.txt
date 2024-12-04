@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -pedantic  CMakeFiles/tp5_histo.dir/src/main_histo.cpp.o -o tp5_histo 
