@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinventaire.a CMakeFiles/inventaire.dir/src/item.cpp.o CMakeFiles/inventaire.dir/src/arme.cpp.o CMakeFiles/inventaire.dir/src/enchantement.cpp.o
+/usr/bin/ranlib libinventaire.a

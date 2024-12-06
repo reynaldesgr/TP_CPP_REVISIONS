@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test.dir/test/catch.cpp.o CMakeFiles/test.dir/test/test_examen.cpp.o -o test  libinventaire.a 

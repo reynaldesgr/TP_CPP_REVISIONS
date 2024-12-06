@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exam.dir/src/order.cpp.o CMakeFiles/exam.dir/src/product.cpp.o CMakeFiles/exam.dir/src/vehicle.cpp.o CMakeFiles/exam.dir/test/tests.cpp.o CMakeFiles/exam.dir/test/catch.cpp.o -o exam 
