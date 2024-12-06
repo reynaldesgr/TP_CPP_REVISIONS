@@ -1,0 +1,4 @@
+/home/local.isima.fr/resegerie/Desktop/tests-exams-cpp/TP_CPP_REVISIONS/EXAM-04/build/CMakeFiles/exam.dir
+/home/local.isima.fr/resegerie/Desktop/tests-exams-cpp/TP_CPP_REVISIONS/EXAM-04/build/CMakeFiles/test.dir
+/home/local.isima.fr/resegerie/Desktop/tests-exams-cpp/TP_CPP_REVISIONS/EXAM-04/build/CMakeFiles/edit_cache.dir
+/home/local.isima.fr/resegerie/Desktop/tests-exams-cpp/TP_CPP_REVISIONS/EXAM-04/build/CMakeFiles/rebuild_cache.dir
